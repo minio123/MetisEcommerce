@@ -275,10 +275,6 @@ section {
     color: #f7f7f7;
 }
 
-.card{
-    width: 100%;
-}
-
 .card:hover .card-links{
     opacity: 1;
     bottom: 7em;
